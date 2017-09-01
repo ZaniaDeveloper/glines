@@ -1,0 +1,2 @@
+# glines
+Multiplatform lines management
